@@ -9,6 +9,9 @@ public class CreateFile {
 
 		File file = new File("C:\\Users\\elcot\\Documents\\Manikandan\\raja");
 		
+		
+		System.out.println("Mani Updated");
+		
 //		boolean mkdir = file.mkdir();
 //		System.out.println(mkdir);
 		
